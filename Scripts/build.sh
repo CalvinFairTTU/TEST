@@ -1,15 +1,17 @@
 #! /bin/sh
 
 project="TEST"
+MAINDIR = "C:\Program Files"
+PROJECTFOLDER = "Serious Nutrition Game"
 
 echo "Attempting to build $project for Windows"
-C:\Program Files\Unity\Editor\Unity.exe \
+$(MAINDIR)\Unity\Editor\Unity.exe \
   -batchmode \
   -nographics \
   -silent-crashes \
   -logFile $(pwd)/unity.log \
-  -projectPath $(pwd)/Serious Nutrition Game \
-  -buildWindows64Player "$(pwd)/Serious Nutrition Game/$project.exe" \
+  -projectPath $(pwd)/$(PROJECTFOLDER) \
+  -buildWindows64Player "$(pwd)/$(PROJECTFOLDER)/$project.exe" \
   -quit
 
 # echo "Attempting to build $project for OS X"
