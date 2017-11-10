@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Menus/MainMenu.unity
+- path: Assets/Stage 3/Scene/Frog-In-The-Pond.unity
   isLoaded: 1
   isActive: 1
