@@ -1,12 +1,18 @@
-language: objective-c
-osx_image: xcode61
-rvm:
-- 2.1.2
+language: generic
+
+os: osx
+
+branches:
+  only:
+    - master
+
 before_install:
-- chmod a+x ./Scripts/install.sh
-- chmod a+x ./Scripts/build.sh
+- chmod a+x ./install.sh
+- chmod a+x ./Serious Nutrition Game/build.sh
+
 install:
 - ./install.sh
+
 script:
 - ./Serious Nutrition Game/build.sh
 

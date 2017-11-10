@@ -3,6 +3,11 @@
 project="SNG"
 PROJECTFOLDER = "Serious Nutrition Game"
 
+#test scripts go here before the building
+
+
+#build script only runs after successful tests
+
 echo "Attempting to build $project for Windows"
 D:/Programs/programs/Unity/Editor/Unity.exe \
   -batchmode \
