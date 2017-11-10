@@ -1,8 +1,8 @@
 #! /bin/sh
 
-BASE_URL=https://download.unity3d.com/download_unity/
+BASE_URL=https://download.unity3d.com/download_unity
 HASH=5d30cf096e79
-VERSION=5.4.1f1
+VERSION=2017.1.1f1
 
 download() {
   file=$1
@@ -17,7 +17,7 @@ install() {
   download "$package"
 
   echo "Installing "`basename "$package"`
-  sudo installer -dumplog -package `basename "$package"` -target /
+  sudo installer -dumplog -package `basename "$package"` -target -verbose /
 }
 
 # See $BASE_URL/$HASH/unity-$VERSION-$PLATFORM.ini for complete list
@@ -25,5 +25,4 @@ install() {
 
 install "MacEditorInstaller/Unity-$VERSION.pkg"
 install "MacEditorTargetInstaller/UnitySetup-Windows-Support-for-Editor-$VERSION.pkg"
-install "MacEditorTargetInstaller/UnitySetup-Mac-Support-for-Editor-$VERSION.pkg"
-install "MacEditorTargetInstaller/UnitySetup-Linux-Support-for-Editor-$VERSION.pkg"
+install "MacEditorTargetInstaller/UnitySetup-iOS-Support-for-Editor-$VERSION.pkg"

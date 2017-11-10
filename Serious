@@ -1,7 +1,7 @@
 
-LICENSE SYSTEM [2017118 9:55:6] No start/stop license dates set
+LICENSE SYSTEM [20171110 8:43:37] No start/stop license dates set
 
-LICENSE SYSTEM [2017118 9:55:6] Next license update check is after 2017-11-09T15:29:19
+LICENSE SYSTEM [20171110 8:43:37] Next license update check is after 2017-11-11T01:04:50
 
 Built from '2017.1/release' branch; Version is '2017.1.1f1 (5d30cf096e79) revision 6107343'; Using compiler version '160040219'
 OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 16269 MB
@@ -23,10 +23,10 @@ Game
 D:/MyDocuments/SE2_TEST_REPOSITORY/TEST/Serious Nutrition Game/SNG.exe
 -quit
 D:/MyDocuments/SE2_TEST_REPOSITORY/TEST/Serious Nutrition Game
-Loading GUID <-> Path mappings...0.000050 seconds
-Loading Asset Database...0.005177 seconds
+Loading GUID <-> Path mappings...0.000203 seconds
+Loading Asset Database...0.005369 seconds
 Audio: FMOD Profiler initialized on port 54900
-AssetDatabase consistency checks...0.021360 seconds
+AssetDatabase consistency checks...0.021744 seconds
 Refreshing native plugins compatible for Editor in 2.26 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2017.1.1f1 (5d30cf096e79)
@@ -39,7 +39,7 @@ Initialize mono
 Mono path[0] = 'D:/Programs/programs/Unity/Editor/Data/Managed'
 Mono path[1] = 'D:/Programs/programs/Unity/Editor/Data/Mono/lib/mono/2.0'
 Mono config path = 'D:/Programs/programs/Unity/Editor/Data/Mono/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56996
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56412
 Begin MonoManager ReloadAssembly
 Platform assembly: D:\Programs\programs\Unity\Editor\Data\Managed\UnityEngine.dll (this message is harmless)
 Platform assembly: D:\Programs\programs\Unity\Editor\Data\Managed\UnityEditor.dll (this message is harmless)
@@ -98,7 +98,7 @@ Register platform support module: D:\Programs\programs\Unity\Editor\Data\Playbac
 Register platform support module: D:/Programs/programs/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
 Register platform support module: D:\Programs\programs\Unity\Editor\Data\PlaybackEngines\windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll
 Register platform support module: D:\Programs\programs\Unity\Editor\Data\PlaybackEngines\MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Registered in 0.001600 seconds.
+Registered in 0.001553 seconds.
 Platform assembly: D:\Programs\programs\Unity\Editor\Data\PackageManager\Unity\PackageManager\2017.1.1\Unity.PackageManager.dll (this message is harmless)
 Loading D:\Programs\programs\Unity\Editor\Data\PackageManager\Unity\PackageManager\2017.1.1\Unity.PackageManager.dll into Unity Child Domain
 Non platform assembly: D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\Advertisements\Editor\UnityEditor.Advertisements.dll (this message is harmless)
@@ -146,8 +146,8 @@ Loading D:\Programs\programs\Unity\Editor\Data\PlaybackEngines\windowsstandalone
 Platform assembly: D:\Programs\programs\Unity\Editor\Data\PlaybackEngines\MacStandaloneSupport\UnityEditor.OSXStandalone.Extensions.dll (this message is harmless)
 Loading D:\Programs\programs\Unity\Editor\Data\PlaybackEngines\MacStandaloneSupport\UnityEditor.OSXStandalone.Extensions.dll into Unity Child Domain
 Platform assembly: D:\Programs\programs\Unity\Editor\Data\Managed\ExCSS.Unity.dll (this message is harmless)
-Refreshing native plugins compatible for Editor in 0.34 ms, found 4 plugins.
-Preloading 2 native plugins for Editor in 1.36 ms.
+Refreshing native plugins compatible for Editor in 0.33 ms, found 4 plugins.
+Preloading 2 native plugins for Editor in 1.42 ms.
 Platform assembly: D:\Programs\programs\Unity\Editor\Data\Managed\Mono.Cecil.dll (this message is harmless)
 Platform assembly: D:\Programs\programs\Unity\Editor\Data\Managed\Unity.SerializationLogic.dll (this message is harmless)
 Platform assembly: D:\Programs\programs\Unity\Editor\Data\Mono\lib\mono\2.0\UnityScript.dll (this message is harmless)
@@ -156,14 +156,14 @@ Platform assembly: D:\Programs\programs\Unity\Editor\Data\Mono\lib\mono\2.0\Syst
 Non platform assembly: D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\UnityVR\Editor\UnityEditor.iOS.Extensions.Xcode.dll (this message is harmless)
 Platform assembly: D:\Programs\programs\Unity\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.Common.dll (this message is harmless)
 Mono: successfully reloaded assembly
-- Completed reload, in  0.583 seconds
+- Completed reload, in  0.555 seconds
 Registering platform support modules:
 Platform assembly: D:\Programs\programs\Unity\Editor\Data\Mono\lib\mono\2.0\Boo.Lang.Compiler.dll (this message is harmless)
 Platform assembly: D:\Programs\programs\Unity\Editor\Data\Mono\lib\mono\2.0\Boo.Lang.dll (this message is harmless)
 Platform assembly: D:\Programs\programs\Unity\Editor\Data\Mono\lib\mono\2.0\Boo.Lang.Parser.dll (this message is harmless)
 Platform assembly: D:\Programs\programs\Unity\Editor\Data\Mono\lib\mono\2.0\UnityScript.Lang.dll (this message is harmless)
 Platform assembly: D:\Programs\programs\Unity\Editor\Data\Mono\lib\mono\2.0\Mono.Security.dll (this message is harmless)
-Registered platform support modules in: 0.0717208s.
+Registered platform support modules in: 0.0725865s.
 Native extension for OSXStandalone target not found
 Native extension for WindowsStandalone target not found
 Loading native library: iOSSupport\x86_64\UnityEditor.iOS.Native at D:/Programs/programs/Unity/Editor/Data/PlaybackEngines/iOSSupport\x86_64\UnityEditor.iOS.Native.dll
@@ -176,427 +176,7 @@ Platform assembly: D:\Programs\programs\Unity\Editor\Data\Managed\Unity.Locator.
 Platform assembly: D:\Programs\programs\Unity\Editor\Data\Mono\lib\mono\2.0\I18N.dll (this message is harmless)
 Platform assembly: D:\Programs\programs\Unity\Editor\Data\Mono\lib\mono\2.0\I18N.West.dll (this message is harmless)
 Registering precompiled user dll's ...
-Registered in 0.010310 seconds.
-Platform assembly: D:\Programs\programs\Unity\Editor\Data\PackageManager\Unity\PackageManager\2017.1.1\Unity.PackageManager.dll (this message is harmless)
-Loading D:\Programs\programs\Unity\Editor\Data\PackageManager\Unity\PackageManager\2017.1.1\Unity.PackageManager.dll into Unity Child Domain
-Non platform assembly: D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\Advertisements\Editor\UnityEditor.Advertisements.dll (this message is harmless)
-Loading D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\Advertisements\Editor\UnityEditor.Advertisements.dll into Unity Child Domain
-Non platform assembly: D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\GUISystem\UnityEngine.UI.dll (this message is harmless)
-Loading D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\GUISystem\UnityEngine.UI.dll into Unity Child Domain
-Non platform assembly: D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\GUISystem\Editor\UnityEditor.UI.dll (this message is harmless)
-Loading D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\GUISystem\Editor\UnityEditor.UI.dll into Unity Child Domain
-Non platform assembly: D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\Networking\UnityEngine.Networking.dll (this message is harmless)
-Loading D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\Networking\UnityEngine.Networking.dll into Unity Child Domain
-Non platform assembly: D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\Networking\Editor\UnityEditor.Networking.dll (this message is harmless)
-Loading D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\Networking\Editor\UnityEditor.Networking.dll into Unity Child Domain
-Non platform assembly: D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\TestRunner\Editor\UnityEditor.TestRunner.dll (this message is harmless)
-Loading D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\TestRunner\Editor\UnityEditor.TestRunner.dll into Unity Child Domain
-Non platform assembly: D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\TestRunner\UnityEngine.TestRunner.dll (this message is harmless)
-Loading D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\TestRunner\UnityEngine.TestRunner.dll into Unity Child Domain
-Non platform assembly: D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\TestRunner\net35\unity-custom\nunit.framework.dll (this message is harmless)
-Loading D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\TestRunner\net35\unity-custom\nunit.framework.dll into Unity Child Domain
-Non platform assembly: D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\Timeline\RuntimeEditor\UnityEngine.Timeline.dll (this message is harmless)
-Loading D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\Timeline\RuntimeEditor\UnityEngine.Timeline.dll into Unity Child Domain
-Non platform assembly: D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\Timeline\Editor\UnityEditor.Timeline.dll (this message is harmless)
-Loading D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\Timeline\Editor\UnityEditor.Timeline.dll into Unity Child Domain
-Non platform assembly: D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\TreeEditor\Editor\UnityEditor.TreeEditor.dll (this message is harmless)
-Loading D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\TreeEditor\Editor\UnityEditor.TreeEditor.dll into Unity Child Domain
-Non platform assembly: D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\UnityAnalytics\UnityEngine.Analytics.dll (this message is harmless)
-Loading D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\UnityAnalytics\UnityEngine.Analytics.dll into Unity Child Domain
-Non platform assembly: D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\UnityAnalytics\Editor\UnityEditor.Analytics.dll (this message is harmless)
-Loading D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\UnityAnalytics\Editor\UnityEditor.Analytics.dll into Unity Child Domain
-Non platform assembly: D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\UnityHoloLens\Editor\UnityEditor.HoloLens.dll (this message is harmless)
-Loading D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\UnityHoloLens\Editor\UnityEditor.HoloLens.dll into Unity Child Domain
-Non platform assembly: D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\UnityHoloLens\RuntimeEditor\UnityEngine.HoloLens.dll (this message is harmless)
-Loading D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\UnityHoloLens\RuntimeEditor\UnityEngine.HoloLens.dll into Unity Child Domain
-Non platform assembly: D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\UnityPurchasing\Editor\UnityEditor.Purchasing.dll (this message is harmless)
-Loading D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\UnityPurchasing\Editor\UnityEditor.Purchasing.dll into Unity Child Domain
-Non platform assembly: D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\UnityVR\Editor\UnityEditor.VR.dll (this message is harmless)
-Loading D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\UnityVR\Editor\UnityEditor.VR.dll into Unity Child Domain
-Platform assembly: D:\Programs\programs\Unity\Editor\Data\Managed\UnityEditor.Graphs.dll (this message is harmless)
-Loading D:\Programs\programs\Unity\Editor\Data\Managed\UnityEditor.Graphs.dll into Unity Child Domain
-Platform assembly: D:\Programs\programs\Unity\Editor\Data\PlaybackEngines\AndroidPlayer\UnityEditor.Android.Extensions.dll (this message is harmless)
-Loading D:\Programs\programs\Unity\Editor\Data\PlaybackEngines\AndroidPlayer\UnityEditor.Android.Extensions.dll into Unity Child Domain
-Platform assembly: D:\Programs\programs\Unity\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.dll (this message is harmless)
-Loading D:\Programs\programs\Unity\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.dll into Unity Child Domain
-Platform assembly: D:\Programs\programs\Unity\Editor\Data\PlaybackEngines\windowsstandalonesupport\UnityEditor.WindowsStandalone.Extensions.dll (this message is harmless)
-Loading D:\Programs\programs\Unity\Editor\Data\PlaybackEngines\windowsstandalonesupport\UnityEditor.WindowsStandalone.Extensions.dll into Unity Child Domain
-Platform assembly: D:\Programs\programs\Unity\Editor\Data\PlaybackEngines\MacStandaloneSupport\UnityEditor.OSXStandalone.Extensions.dll (this message is harmless)
-Loading D:\Programs\programs\Unity\Editor\Data\PlaybackEngines\MacStandaloneSupport\UnityEditor.OSXStandalone.Extensions.dll into Unity Child Domain
-Non platform assembly: C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\15.0\Editor\SyntaxTree.VisualStudio.Unity.Bridge.dll (this message is harmless)
-Loading C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\15.0\Editor\SyntaxTree.VisualStudio.Unity.Bridge.dll into Unity Child Domain
-Platform assembly: D:\Programs\programs\Unity\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll (this message is harmless)
-Loading D:\Programs\programs\Unity\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll into Unity Child Domain
-Platform assembly: D:\Programs\programs\Unity\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.Common.dll (this message is harmless)
-Loading D:\Programs\programs\Unity\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.Common.dll into Unity Child Domain
-Platform assembly: D:\Programs\programs\Unity\Editor\Data\Mono\lib\mono\2.0\System.Core.dll (this message is harmless)
-Platform assembly: D:\Programs\programs\Unity\Editor\Data\Managed\ExCSS.Unity.dll (this message is harmless)
-Refreshing native plugins compatible for Editor in 0.34 ms, found 4 plugins.
-Preloading 2 native plugins for Editor in 0.08 ms.
-Platform assembly: D:\Programs\programs\Unity\Editor\Data\Managed\Mono.Cecil.dll (this message is harmless)
-Platform assembly: D:\Programs\programs\Unity\Editor\Data\Managed\Unity.SerializationLogic.dll (this message is harmless)
-Platform assembly: D:\Programs\programs\Unity\Editor\Data\Managed\Unity.DataContract.dll (this message is harmless)
-Platform assembly: D:\Programs\programs\Unity\Editor\Data\Mono\lib\mono\2.0\UnityScript.dll (this message is harmless)
-Platform assembly: D:\Programs\programs\Unity\Editor\Data\Managed\Unity.Legacy.NRefactory.dll (this message is harmless)
-Platform assembly: D:\Programs\programs\Unity\Editor\Data\Mono\lib\mono\2.0\System.Xml.Linq.dll (this message is harmless)
-Platform assembly: D:\Programs\programs\Unity\Editor\Data\Managed\Unity.IvyParser.dll (this message is harmless)
-Non platform assembly: C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\15.0\Editor\SyntaxTree.VisualStudio.Unity.Messaging.dll (this message is harmless)
-Mono: successfully reloaded assembly
-- Completed reload, in  0.427 seconds
-Initializing Unity.PackageManager (PackageManager) v2017.1.1 for Unity v2017.1.1f1
-Setting Android:Android v2017.1.1 for Unity v2017.1.1f1 to D:\Programs\programs\Unity\Editor\Data\PlaybackEngines\AndroidPlayer
-Setting Unknown:MetroPlayer v2017.1.1 for Unity v2017.1.1f1 to D:\Programs\programs\Unity\Editor\Data\PlaybackEngines\iOSSupport
-Setting Standalone:StandaloneWindows v2017.1.1 for Unity v2017.1.1f1 to D:\Programs\programs\Unity\Editor\Data\PlaybackEngines\windowsstandalonesupport
-Setting Standalone:StandaloneOSXIntel v2017.1.1 for Unity v2017.1.1f1 to D:\Programs\programs\Unity\Editor\Data\PlaybackEngines\MacStandaloneSupport
-Setting Advertisements v2017.1.1 for Unity v2017.1.1f1 to D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\Advertisements
-  UnityEngine.Advertisements.dll (Extension) GUID: 739bbd9f364b4268874f9fd86ab3beef
-  Editor/UnityEditor.Advertisements.dll (Extension) GUID: 97decbdab0634cdd991f8d23ddf0dead
-Setting GUISystem v2017.1.1 for Unity v2017.1.1f1 to D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\GUISystem
-  UnityEngine.UI.dll (Extension) GUID: f5f67c52d1564df4a8936ccd202a3bd8
-  Standalone/UnityEngine.UI.dll (Extension) GUID: f70555f144d8491a825f0804e09c671c
-  Editor/UnityEditor.UI.dll (Extension) GUID: 80a3616ca19596e4da0f10f14d241e9f
-Setting UNetHLAPI v2017.1.1 for Unity v2017.1.1f1 to D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\Networking
-  UnityEngine.Networking.dll (Extension) GUID: 870353891bb340e2b2a9c8707e7419ba
-  Standalone/UnityEngine.Networking.dll (Extension) GUID: dc443db3e92b4983b9738c1131f555cb
-  Editor/UnityEditor.Networking.dll (Extension) GUID: 5f32cd94baa94578a686d4b9d6b660f7
-Setting TestRunner v2017.1.1 for Unity v2017.1.1f1 to D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\TestRunner
-  Editor/UnityEditor.TestRunner.dll (Extension) GUID: 4113173d5e95493ab8765d7b08371de4
-  UnityEngine.TestRunner.dll (Extension) GUID: 53ebcfaa2e1e4e2dbc85882cd5a73fa1
-  net35/unity-custom/nunit.framework.dll (Extension) GUID: 4b3fa4bde7f1451a8218c03ee6a8ded8
-  portable/nunit.framework.dll (Extension) GUID: 405b9b51bb344a128608d968297df79c
-Setting Timeline v2017.1.1 for Unity v2017.1.1f1 to D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\Timeline
-  RuntimeEditor/UnityEngine.Timeline.dll (Extension) GUID: 844F815391DB42D49455CBF1A7BFC434
-  Runtime/UnityEngine.Timeline.dll (Extension) GUID: 6a10b2909283487f913b00d94cd3faf5
-  Editor/UnityEditor.Timeline.dll (Extension) GUID: 7668179ede524d6396c8b7d84461ea29
-Setting TreeEditor v2017.1.1 for Unity v2017.1.1f1 to D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\TreeEditor
-  Editor/UnityEditor.TreeEditor.dll (Extension) GUID: adebbd281f1a4ef3a30be7f21937e02f
-Setting UnityAnalytics v2017.1.1 for Unity v2017.1.1f1 to D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\UnityAnalytics
-  UnityEngine.Analytics.dll (Extension) GUID: 852E56802EB941638ACBB491814497B0
-  Editor/UnityEditor.Analytics.dll (Extension) GUID: 86f4de9468454445ac2f39e207fafa3a
-Setting UnityHoloLens v2017.1.1 for Unity v2017.1.1f1 to D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\UnityHoloLens
-  Editor/UnityEditor.HoloLens.dll (Extension) GUID: 12fd8a0055b84bb59e84c9835a37e333
-  Runtime/UnityEngine.HoloLens.dll (Extension) GUID: f7b54ff4a43d4fcf81b4538b678e0bcc
-  RuntimeEditor/UnityEngine.HoloLens.dll (Extension) GUID: 1c6d1fbb51834b64847b1b73a75bfc77
-Setting UnityPurchasing v2017.1.1 for Unity v2017.1.1f1 to D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\UnityPurchasing
-  UnityEngine.Purchasing.dll (Extension) GUID: 8E0CD8ED44D4412CBE0642067ABC9E44
-  Editor/UnityEditor.Purchasing.dll (Extension) GUID: 8382B2BB260241859771B69B7F377A8D
-Setting UnityVR v2017.1.1 for Unity v2017.1.1f1 to D:\Programs\programs\Unity\Editor\Data\UnityExtensions\Unity\UnityVR
-  Editor/UnityEditor.VR.dll (Extension) GUID: 4ba2329b63d54f0187bcaa12486b1b0f
-Registering platform support modules:
-Platform assembly: D:\Programs\programs\Unity\Editor\Data\Mono\lib\mono\2.0\Boo.Lang.Compiler.dll (this message is harmless)
-Platform assembly: D:\Programs\programs\Unity\Editor\Data\Mono\lib\mono\2.0\Boo.Lang.dll (this message is harmless)
-Platform assembly: D:\Programs\programs\Unity\Editor\Data\Mono\lib\mono\2.0\Boo.Lang.Parser.dll (this message is harmless)
-Platform assembly: D:\Programs\programs\Unity\Editor\Data\Mono\lib\mono\2.0\UnityScript.Lang.dll (this message is harmless)
-Registered platform support modules in: 0.0387545s.
-Native extension for OSXStandalone target not found
-Native extension for WindowsStandalone target not found
-Native extension for iOS target not found
-Native extension for Android target not found
-- Starting compile Library\ScriptAssemblies\Assembly-CSharp.dll
-- Starting compile Library\ScriptAssemblies\Assembly-UnityScript.dll
-- Finished compile Library\ScriptAssemblies\Assembly-UnityScript.dll
-WeaveUnetFromEditor Temp\Assembly-UnityScript.dll
-Platform assembly: D:\Programs\programs\Unity\Editor\Data\Managed\Unity.UNetWeaver.dll (this message is harmless)
-WeaveAssemblies unityPath= D:/Programs/programs/Unity/Editor/Data/Managed/UnityEngine.dll
-WeaveAssemblies unetPath= D:/Programs/programs/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
-Platform assembly: D:\Programs\programs\Unity\Editor\Data\Managed\Mono.Cecil.Pdb.dll (this message is harmless)
-Platform assembly: D:\Programs\programs\Unity\Editor\Data\Managed\Mono.Cecil.Mdb.dll (this message is harmless)
-Symbols will be read from Temp\Assembly-UnityScript.dll.mdb
-Script Module: Assembly-UnityScript
-Pass: 0 took 6 milliseconds
-Pass: 1 took 2 milliseconds
-
------Compiler Commandline Arguments:
-Filename: D:\Programs\programs\Unity\Editor\Data\MonoBleedingEdge\bin\mono.exe
-Arguments: D:\Programs\programs\Unity\Editor\Data\MonoBleedingEdge\lib\mono\4.5\mcs.exe  @Temp/UnityTempFile-cbe60c2e8c160024a883d89e3c0d2454
-index: 79
-Responsefile: Temp/UnityTempFile-cbe60c2e8c160024a883d89e3c0d2454 Contents: 
--debug
--target:library
--nowarn:0169
--langversion:4
--out:Temp\Assembly-CSharp.dll
--unsafe
--r:D:/Programs/programs/Unity/Editor/Data/Managed/UnityEditor.dll
--r:D:/Programs/programs/Unity/Editor/Data/Managed/UnityEngine.dll
--r:D:/Programs/programs/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
--r:D:/Programs/programs/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
--r:D:/Programs/programs/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll
--r:D:/Programs/programs/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll
--r:D:/Programs/programs/Unity/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll
--r:D:/Programs/programs/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll
--r:D:/Programs/programs/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll
--r:D:/Programs/programs/Unity/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll
--r:D:/Programs/programs/Unity/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Common.dll
--define:UNITY_5_3_OR_NEWER
--define:UNITY_5_4_OR_NEWER
--define:UNITY_5_5_OR_NEWER
--define:UNITY_5_6_OR_NEWER
--define:UNITY_2017_1_OR_NEWER
--define:UNITY_2017_1_1
--define:UNITY_2017_1
--define:UNITY_2017
--define:PLATFORM_ARCH_64
--define:UNITY_64
--define:UNITY_ANALYTICS
--define:ENABLE_AUDIO
--define:ENABLE_CACHING
--define:ENABLE_CLOTH
--define:ENABLE_DUCK_TYPING
--define:ENABLE_GENERICS
--define:ENABLE_PVR_GI
--define:ENABLE_MICROPHONE
--define:ENABLE_MULTIPLE_DISPLAYS
--define:ENABLE_PHYSICS
--define:ENABLE_RUNTIME_NAVMESH_BUILDING
--define:ENABLE_SPRITERENDERER_FLIPPING
--define:ENABLE_SPRITES
--define:ENABLE_TERRAIN
--define:ENABLE_RAKNET
--define:ENABLE_DIRECTOR
--define:ENABLE_UNET
--define:ENABLE_LZMA
--define:ENABLE_UNITYEVENTS
--define:ENABLE_WEBCAM
--define:ENABLE_WWW
--define:ENABLE_CLOUD_SERVICES_COLLAB
--define:ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS
--define:ENABLE_CLOUD_SERVICES_ADS
--define:ENABLE_CLOUD_HUB
--define:ENABLE_CLOUD_PROJECT_ID
--define:ENABLE_CLOUD_SERVICES_USE_WEBREQUEST
--define:ENABLE_CLOUD_SERVICES_UNET
--define:ENABLE_CLOUD_SERVICES_BUILD
--define:ENABLE_CLOUD_LICENSE
--define:ENABLE_WEBSOCKET_CLIENT
--define:ENABLE_DIRECTOR_AUDIO
--define:ENABLE_TIMELINE
--define:ENABLE_EDITOR_METRICS
--define:ENABLE_EDITOR_METRICS_CACHING
--define:ENABLE_NATIVE_ARRAY
--define:ENABLE_SPRITE_MASKING
--define:INCLUDE_DYNAMIC_GI
--define:INCLUDE_GI
--define:ENABLE_MONO_BDWGC
--define:PLATFORM_SUPPORTS_MONO
--define:RENDER_SOFTWARE_CURSOR
--define:INCLUDE_PUBNUB
--define:ENABLE_PLAYMODE_TESTS_RUNNER
--define:ENABLE_VIDEO
--define:ENABLE_RMGUI
--define:ENABLE_CUSTOM_RENDER_TEXTURE
--define:ENABLE_STYLE_SHEETS
--define:UNITY_STANDALONE_WIN
--define:UNITY_STANDALONE
--define:ENABLE_SUBSTANCE
--define:ENABLE_RUNTIME_GI
--define:ENABLE_MOVIES
--define:ENABLE_NETWORK
--define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
--define:ENABLE_UNITYWEBREQUEST
--define:ENABLE_CLOUD_SERVICES
--define:ENABLE_CLOUD_SERVICES_ANALYTICS
--define:ENABLE_CLOUD_SERVICES_PURCHASING
--define:ENABLE_CLOUD_SERVICES_CRASH_REPORTING
--define:ENABLE_EVENT_QUEUE
--define:ENABLE_CLUSTERINPUT
--define:ENABLE_VR
--define:ENABLE_WEBSOCKET_HOST
--define:ENABLE_MONO
--define:NET_2_0_SUBSET
--define:ENABLE_PROFILER
--define:DEBUG
--define:TRACE
--define:UNITY_ASSERTIONS
--define:UNITY_EDITOR
--define:UNITY_EDITOR_64
--define:UNITY_EDITOR_WIN
--define:ENABLE_NATIVE_ARRAY_CHECKS
--define:UNITY_TEAM_LICENSE
--define:ENABLE_VSTU
--define:CROSS_PLATFORM_INPUT
-"Assets/Menus/Level Select/Scripts/S3LS.cs"
-"Assets/Stage 1/Scripts/Fridge_DragandDrop.cs"
-"Assets/Stage 1/Scripts/Fridge_Trashcan.cs"
-"Assets/Stage 1/Scripts/FridgeSpawn.cs"
-"Assets/Stage 2/Bonus Level 1/Scripts/PlayNote.cs"
-"Assets/Stage 2/Bonus Level 1/Scripts/PropelSprite.cs"
-"Assets/Stage 2/Boss Level/Scripts/BGMovement.cs"
-"Assets/Stage 2/Boss Level/Scripts/BossMovement.cs"
-"Assets/Stage 2/Boss Level/Scripts/CharacterMovement.cs"
-"Assets/Stage 2/Level 2/Scripts/DropFood.cs"
-"Assets/Stage 2/Level 2/Scripts/MoveCloud.cs"
-"Assets/Stage 2/Level 2/Scripts/MovePlayer.cs"
-"Assets/Stage 2/Level 2/Scripts/ProgressBar.cs"
-"Assets/Stage 2/Level 2/Scripts/SpawnFood.cs"
-"Assets/Stage 2/Level 2/Scripts/WinGame.cs"
-"Assets/Stage 2/Level 3/Scripts/ConveyorBeltScript.cs"
-"Assets/Stage 2/Level 3/Scripts/DogEatScript.cs"
-"Assets/Stage 2/Level 3/Scripts/DragAndDropScript.cs"
-"Assets/Stage 2/Level 3/Scripts/Score.cs"
-"Assets/Stage 2/Level 3/Scripts/TrashCanScript.cs"
-"Assets/Stage 2/Scripts/PauseScript.cs"
-"Assets/Stage 2/Scripts/SpawnScript.cs"
-"Assets/Stage 3/Scripts/Level 1/FrogEat.cs"
-"Assets/Stage 3/Scripts/Level 1/FrogMovement.cs"
-"Assets/Stage 3/Scripts/Level 1/FrogWins.cs"
-"Assets/Stage 3/Scripts/Level 1/PlayerCamera.cs"
-"Assets/Stage 3/Scripts/Level 1/PondSpawnPointFood.cs"
-"Assets/Stage 3/Scripts/Level 1/Stage3Level1Reload.cs"
-"Assets/Stage 3/Scripts/Level 2/CatchFoodScript.cs"
-"Assets/Stage 3/Scripts/Level 2/DragAndDropMeatMarket.cs"
-"Assets/Stage 3/Scripts/Level 2/FoodBoxScript.cs"
-"Assets/Stage 3/Scripts/Level 2/MeatMarketSpawnScript.cs"
-"Assets/Stage 3/Scripts/Level 2/SmileyFaceScript.cs"
-"Assets/Stage 3/Scripts/Level 2/SpawnCounterScript.cs"
-"Assets/Stage 4/Scripts/AddVelocity.cs"
-"Assets/Stage 4/Scripts/ChangeGravity.cs"
-"Assets/Stage 4/Scripts/PlayerController.cs"
-"Assets/Stage 4/Scripts/Scoring.cs"
-"Assets/Stage 4/Scripts/spawner.cs"
-"Assets/Stage 5/Scripts/Level 2/FoodSpawn.cs"
-"Assets/Stage 5/Scripts/Level 2/Translator.cs"
-"Assets/Stage 5/Scripts/Level 2/UserInput.cs"
--r:D:\Programs\programs\Unity\Editor\Data\Mono\lib\mono\unity\System.Runtime.Serialization.dll
--r:D:\Programs\programs\Unity\Editor\Data\Mono\lib\mono\unity\System.Xml.Linq.dll
--r:D:\Programs\programs\Unity\Editor\Data\Mono\lib\mono\unity\UnityScript.dll
--r:D:\Programs\programs\Unity\Editor\Data\Mono\lib\mono\unity\UnityScript.Lang.dll
--r:D:\Programs\programs\Unity\Editor\Data\Mono\lib\mono\unity\Boo.Lang.dll
--sdk:unity
-
------CompilerOutput:-stdout--exitcode: 0--compilationhadfailure: False--outfile: Temp\Assembly-CSharp.dll
-Compilation succeeded - 2 warning(s)
------CompilerOutput:-stderr----------
-Assets/Stage 2/Level 2/Scripts/SpawnFood.cs(21,15): warning CS0219: The variable `food' is assigned but its value is never used
-Assets/Stage 2/Scripts/SpawnScript.cs(12,9): warning CS0414: The private field `SpawnScript.score' is assigned but its value is never used
------EndCompilerOutput---------------
-- Finished compile Library\ScriptAssemblies\Assembly-CSharp.dll
-WeaveUnetFromEditor Temp\Assembly-CSharp.dll
-WeaveAssemblies unityPath= D:/Programs/programs/Unity/Editor/Data/Managed/UnityEngine.dll
-WeaveAssemblies unetPath= D:/Programs/programs/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
-Symbols will be read from Temp\Assembly-CSharp.dll.mdb
-Script Module: Assembly-CSharp.dll
-Pass: 0 took 5 milliseconds
-Pass: 1 took 5 milliseconds
-Assets/Stage 2/Level 2/Scripts/SpawnFood.cs(21,15): warning CS0219: The variable `food' is assigned but its value is never used
- 
-(Filename: Assets/Stage 2/Level 2/Scripts/SpawnFood.cs Line: 21)
-
-Assets/Stage 2/Scripts/SpawnScript.cs(12,9): warning CS0414: The private field `SpawnScript.score' is assigned but its value is never used
- 
-(Filename: Assets/Stage 2/Scripts/SpawnScript.cs Line: 12)
-
-Assets/Menus/Level Select/Scripts/Stage 1 LP.js(4,17): BCW0012: WARNING: 'UnityEngine.Application.LoadLevel(int)' is obsolete. Use SceneManager.LoadScene
- 
-(Filename: Assets/Menus/Level Select/Scripts/Stage 1 LP.js Line: 4)
-
-Assets/Menus/Level Select/Scripts/Stage 1 LP.js(8,17): BCW0012: WARNING: 'UnityEngine.Application.LoadLevel(int)' is obsolete. Use SceneManager.LoadScene
- 
-(Filename: Assets/Menus/Level Select/Scripts/Stage 1 LP.js Line: 8)
-
-Assets/Menus/Level Select/Scripts/Stage 1 LP.js(12,17): BCW0012: WARNING: 'UnityEngine.Application.LoadLevel(int)' is obsolete. Use SceneManager.LoadScene
- 
-(Filename: Assets/Menus/Level Select/Scripts/Stage 1 LP.js Line: 12)
-
-Assets/Menus/Level Select/Scripts/Stage 1 LP.js(16,17): BCW0012: WARNING: 'UnityEngine.Application.LoadLevel(int)' is obsolete. Use SceneManager.LoadScene
- 
-(Filename: Assets/Menus/Level Select/Scripts/Stage 1 LP.js Line: 16)
-
-Assets/Menus/Level Select/Scripts/Stage 2 LP.js(4,17): BCW0012: WARNING: 'UnityEngine.Application.LoadLevel(int)' is obsolete. Use SceneManager.LoadScene
- 
-(Filename: Assets/Menus/Level Select/Scripts/Stage 2 LP.js Line: 4)
-
-Assets/Menus/Level Select/Scripts/Stage 2 LP.js(8,17): BCW0012: WARNING: 'UnityEngine.Application.LoadLevel(int)' is obsolete. Use SceneManager.LoadScene
- 
-(Filename: Assets/Menus/Level Select/Scripts/Stage 2 LP.js Line: 8)
-
-Assets/Menus/Level Select/Scripts/Stage 2 LP.js(12,17): BCW0012: WARNING: 'UnityEngine.Application.LoadLevel(int)' is obsolete. Use SceneManager.LoadScene
- 
-(Filename: Assets/Menus/Level Select/Scripts/Stage 2 LP.js Line: 12)
-
-Assets/Menus/Level Select/Scripts/Stage 2 LP.js(16,17): BCW0012: WARNING: 'UnityEngine.Application.LoadLevel(int)' is obsolete. Use SceneManager.LoadScene
- 
-(Filename: Assets/Menus/Level Select/Scripts/Stage 2 LP.js Line: 16)
-
-Assets/Menus/Level Select/Scripts/Stage 2 LP.js(20,17): BCW0012: WARNING: 'UnityEngine.Application.LoadLevel(int)' is obsolete. Use SceneManager.LoadScene
- 
-(Filename: Assets/Menus/Level Select/Scripts/Stage 2 LP.js Line: 20)
-
-Assets/Menus/Level Select/Scripts/Stage 3 LP.js(4,17): BCW0012: WARNING: 'UnityEngine.Application.LoadLevel(int)' is obsolete. Use SceneManager.LoadScene
- 
-(Filename: Assets/Menus/Level Select/Scripts/Stage 3 LP.js Line: 4)
-
-Assets/Menus/Level Select/Scripts/Stage 3 LP.js(8,17): BCW0012: WARNING: 'UnityEngine.Application.LoadLevel(int)' is obsolete. Use SceneManager.LoadScene
- 
-(Filename: Assets/Menus/Level Select/Scripts/Stage 3 LP.js Line: 8)
-
-Assets/Menus/Level Select/Scripts/Stage 3 LP.js(12,17): BCW0012: WARNING: 'UnityEngine.Application.LoadLevel(int)' is obsolete. Use SceneManager.LoadScene
- 
-(Filename: Assets/Menus/Level Select/Scripts/Stage 3 LP.js Line: 12)
-
-Assets/Menus/Level Select/Scripts/Stage 3 LP.js(16,17): BCW0012: WARNING: 'UnityEngine.Application.LoadLevel(int)' is obsolete. Use SceneManager.LoadScene
- 
-(Filename: Assets/Menus/Level Select/Scripts/Stage 3 LP.js Line: 16)
-
-Assets/Menus/Level Select/Scripts/Stage 4 LP.js(4,17): BCW0012: WARNING: 'UnityEngine.Application.LoadLevel(int)' is obsolete. Use SceneManager.LoadScene
- 
-(Filename: Assets/Menus/Level Select/Scripts/Stage 4 LP.js Line: 4)
-
-Assets/Menus/Level Select/Scripts/Stage 4 LP.js(8,17): BCW0012: WARNING: 'UnityEngine.Application.LoadLevel(int)' is obsolete. Use SceneManager.LoadScene
- 
-(Filename: Assets/Menus/Level Select/Scripts/Stage 4 LP.js Line: 8)
-
-Assets/Menus/Level Select/Scripts/Stage 4 LP.js(12,17): BCW0012: WARNING: 'UnityEngine.Application.LoadLevel(int)' is obsolete. Use SceneManager.LoadScene
- 
-(Filename: Assets/Menus/Level Select/Scripts/Stage 4 LP.js Line: 12)
-
-Assets/Menus/Level Select/Scripts/Stage 4 LP.js(16,17): BCW0012: WARNING: 'UnityEngine.Application.LoadLevel(int)' is obsolete. Use SceneManager.LoadScene
- 
-(Filename: Assets/Menus/Level Select/Scripts/Stage 4 LP.js Line: 16)
-
-Assets/Menus/Level Select/Scripts/Stage 5 LP.js(4,17): BCW0012: WARNING: 'UnityEngine.Application.LoadLevel(int)' is obsolete. Use SceneManager.LoadScene
- 
-(Filename: Assets/Menus/Level Select/Scripts/Stage 5 LP.js Line: 4)
-
-Assets/Menus/Level Select/Scripts/Stage 5 LP.js(8,17): BCW0012: WARNING: 'UnityEngine.Application.LoadLevel(int)' is obsolete. Use SceneManager.LoadScene
- 
-(Filename: Assets/Menus/Level Select/Scripts/Stage 5 LP.js Line: 8)
-
-Assets/Menus/Level Select/Scripts/Stage 5 LP.js(12,17): BCW0012: WARNING: 'UnityEngine.Application.LoadLevel(int)' is obsolete. Use SceneManager.LoadScene
- 
-(Filename: Assets/Menus/Level Select/Scripts/Stage 5 LP.js Line: 12)
-
-Assets/Menus/Level Select/Scripts/Stage 5 LP.js(16,17): BCW0012: WARNING: 'UnityEngine.Application.LoadLevel(int)' is obsolete. Use SceneManager.LoadScene
- 
-(Filename: Assets/Menus/Level Select/Scripts/Stage 5 LP.js Line: 16)
-
-Assets/Menus/MainMenuFunctions.js(4,17): BCW0012: WARNING: 'UnityEngine.Application.LoadLevel(int)' is obsolete. Use SceneManager.LoadScene
- 
-(Filename: Assets/Menus/MainMenuFunctions.js Line: 4)
-
-Assets/Menus/MainMenuFunctions.js(7,17): BCW0012: WARNING: 'UnityEngine.Application.LoadLevel(int)' is obsolete. Use SceneManager.LoadScene
- 
-(Filename: Assets/Menus/MainMenuFunctions.js Line: 7)
-
-Assets/Menus/MainMenuFunctions.js(10,17): BCW0012: WARNING: 'UnityEngine.Application.LoadLevel(int)' is obsolete. Use SceneManager.LoadScene
- 
-(Filename: Assets/Menus/MainMenuFunctions.js Line: 10)
-
-Assets/Menus/MainMenuFunctions.js(13,17): BCW0012: WARNING: 'UnityEngine.Application.LoadLevel(int)' is obsolete. Use SceneManager.LoadScene
- 
-(Filename: Assets/Menus/MainMenuFunctions.js Line: 13)
-
-Assets/Menus/MainMenuFunctions.js(16,17): BCW0012: WARNING: 'UnityEngine.Application.LoadLevel(int)' is obsolete. Use SceneManager.LoadScene
- 
-(Filename: Assets/Menus/MainMenuFunctions.js Line: 16)
-
-Reloading assemblies after script compilation.
-Begin MonoManager ReloadAssembly
-Platform assembly: D:\Programs\programs\Unity\Editor\Data\Managed\UnityEngine.dll (this message is harmless)
-Platform assembly: D:\Programs\programs\Unity\Editor\Data\Managed\UnityEditor.dll (this message is harmless)
-Platform assembly: D:\Programs\programs\Unity\Editor\Data\Managed\Unity.Locator.dll (this message is harmless)
-Platform assembly: D:\Programs\programs\Unity\Editor\Data\Mono\lib\mono\2.0\I18N.dll (this message is harmless)
-Platform assembly: D:\Programs\programs\Unity\Editor\Data\Mono\lib\mono\2.0\I18N.West.dll (this message is harmless)
+Registered in 0.009655 seconds.
 Non platform assembly: D:\MyDocuments\SE2_TEST_REPOSITORY\TEST\Serious Nutrition Game\Library\ScriptAssemblies\Assembly-CSharp.dll (this message is harmless)
 Loading D:\MyDocuments\SE2_TEST_REPOSITORY\TEST\Serious Nutrition Game\Library\ScriptAssemblies\Assembly-CSharp.dll into Unity Child Domain
 Non platform assembly: D:\MyDocuments\SE2_TEST_REPOSITORY\TEST\Serious Nutrition Game\Library\ScriptAssemblies\Assembly-UnityScript.dll (this message is harmless)
@@ -655,8 +235,8 @@ Platform assembly: D:\Programs\programs\Unity\Editor\Data\PlaybackEngines\iOSSup
 Loading D:\Programs\programs\Unity\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.Common.dll into Unity Child Domain
 Platform assembly: D:\Programs\programs\Unity\Editor\Data\Mono\lib\mono\2.0\System.Core.dll (this message is harmless)
 Platform assembly: D:\Programs\programs\Unity\Editor\Data\Managed\ExCSS.Unity.dll (this message is harmless)
-Refreshing native plugins compatible for Editor in 0.32 ms, found 4 plugins.
-Preloading 2 native plugins for Editor in 0.09 ms.
+Refreshing native plugins compatible for Editor in 0.34 ms, found 4 plugins.
+Preloading 2 native plugins for Editor in 0.07 ms.
 Platform assembly: D:\Programs\programs\Unity\Editor\Data\Managed\Mono.Cecil.dll (this message is harmless)
 Platform assembly: D:\Programs\programs\Unity\Editor\Data\Managed\Unity.SerializationLogic.dll (this message is harmless)
 Platform assembly: D:\Programs\programs\Unity\Editor\Data\Managed\Unity.DataContract.dll (this message is harmless)
@@ -666,7 +246,7 @@ Platform assembly: D:\Programs\programs\Unity\Editor\Data\Mono\lib\mono\2.0\Syst
 Platform assembly: D:\Programs\programs\Unity\Editor\Data\Managed\Unity.IvyParser.dll (this message is harmless)
 Non platform assembly: C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\15.0\Editor\SyntaxTree.VisualStudio.Unity.Messaging.dll (this message is harmless)
 Mono: successfully reloaded assembly
-- Completed reload, in  0.436 seconds
+- Completed reload, in  0.402 seconds
 Initializing Unity.PackageManager (PackageManager) v2017.1.1 for Unity v2017.1.1f1
 Setting Android:Android v2017.1.1 for Unity v2017.1.1f1 to D:\Programs\programs\Unity\Editor\Data\PlaybackEngines\AndroidPlayer
 Setting Unknown:MetroPlayer v2017.1.1 for Unity v2017.1.1f1 to D:\Programs\programs\Unity\Editor\Data\PlaybackEngines\iOSSupport
@@ -711,21 +291,14 @@ Platform assembly: D:\Programs\programs\Unity\Editor\Data\Mono\lib\mono\2.0\Boo.
 Platform assembly: D:\Programs\programs\Unity\Editor\Data\Mono\lib\mono\2.0\Boo.Lang.dll (this message is harmless)
 Platform assembly: D:\Programs\programs\Unity\Editor\Data\Mono\lib\mono\2.0\Boo.Lang.Parser.dll (this message is harmless)
 Platform assembly: D:\Programs\programs\Unity\Editor\Data\Mono\lib\mono\2.0\UnityScript.Lang.dll (this message is harmless)
-Registered platform support modules in: 0.0391158s.
+Registered platform support modules in: 0.0402971s.
 Native extension for OSXStandalone target not found
 Native extension for WindowsStandalone target not found
 Native extension for iOS target not found
 Native extension for Android target not found
-Validating Project structure ... 0.006163 seconds.
-Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.041720 seconds
-Updating ProjectSettings/ProjectSettings.asset - GUID: 00000000000000004000000000000000...
- done. [Time: 32.611549 ms] 
-Refreshing native plugins compatible for Editor in 0.50 ms, found 4 plugins.
-Preloading 2 native plugins for Editor in 0.15 ms.
-
------ Total AssetImport time: 0.105625s, AssetImport time: 0.070303s, Asset hashing: 0.000000s [0 B, 0.000000 mb/s]
-
-Warming cache for 575 main assets: 0.001647 seconds elapsed
+Validating Project structure ... 0.005875 seconds.
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.005894 seconds (Nothing changed)
+Warming cache for 575 main assets: 0.001960 seconds elapsed
 Initializing Unity extensions:
  'D:/Programs/programs/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Editor/UnityEditor.HoloLens.dll'  GUID: 12fd8a0055b84bb59e84c9835a37e333
  'D:/Programs/programs/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll'  GUID: 852e56802eb941638acbb491814497b0
@@ -757,12 +330,12 @@ Initializing Unity extensions:
     Ignoring 'D:/Programs/programs/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Runtime/UnityEngine.Timeline.dll' because we're compiling for Editor:Editor
     Ignoring 'D:/Programs/programs/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll' because we're compiling for Editor:Editor
     Ignoring 'D:/Programs/programs/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll' because we're compiling for Editor:Editor
-Unloading 132 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 135 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 23.5 MB.
 System memory in use after: 23.5 MB.
 
-Unloading 108 unused Assets to reduce memory usage. Loaded Objects now: 658.
-Total: 1.391224 ms (FindLiveObjects: 0.212603 ms CreateObjectMapping: 0.053971 ms MarkObjects: 1.087452 ms  DeleteObjects: 0.018233 ms)
+Unloading 109 unused Assets to reduce memory usage. Loaded Objects now: 658.
+Total: 0.686677 ms (FindLiveObjects: 0.068558 ms CreateObjectMapping: 0.017504 ms MarkObjects: 0.567794 ms  DeleteObjects: 0.030267 ms)
 
 building x86_64 windows player!
 Platform assembly: D:\Programs\programs\Unity\Editor\Data\Managed\Unity.CecilTools.dll (this message is harmless)
@@ -798,14 +371,14 @@ Platform assembly: D:\Programs\programs\Unity\Editor\Data\Managed\Mono.Cecil.Pdb
 Platform assembly: D:\Programs\programs\Unity\Editor\Data\Managed\Mono.Cecil.Mdb.dll (this message is harmless)
 Symbols will be read from Temp\Assembly-UnityScript.dll.mdb
 Script Module: Assembly-UnityScript
-Pass: 0 took 4 milliseconds
+Pass: 0 took 5 milliseconds
 Pass: 1 took 1 milliseconds
 
 -----Compiler Commandline Arguments:
 Filename: D:\Programs\programs\Unity\Editor\Data\MonoBleedingEdge\bin\mono.exe
-Arguments: D:\Programs\programs\Unity\Editor\Data\MonoBleedingEdge\lib\mono\4.5\mcs.exe  @Temp/UnityTempFile-79c8f38b75ecb47409f3ea517685ec4b
+Arguments: D:\Programs\programs\Unity\Editor\Data\MonoBleedingEdge\lib\mono\4.5\mcs.exe  @Temp/UnityTempFile-a0fdbc66d67f1de42b54c228b68d914e
 index: 79
-Responsefile: Temp/UnityTempFile-79c8f38b75ecb47409f3ea517685ec4b Contents: 
+Responsefile: Temp/UnityTempFile-a0fdbc66d67f1de42b54c228b68d914e Contents: 
 -debug
 -target:library
 -nowarn:0169
@@ -1079,29 +652,23 @@ Assets/Menus/MainMenuFunctions.js(16,17): BCW0012: WARNING: 'UnityEngine.Applica
 DisplayProgressbar: Building Player
 
 Packing sprites:
-[     40 MB ]- Collect Sprites to Pack 
-[     40 MB ]- Grouping sprites using the selected SpritePackerPolicy.
+[     39 MB ]- Collect Sprites to Pack 
+[     39 MB ]- Grouping sprites using the selected SpritePackerPolicy.
 [     46 MB ]- 	Atlas "icon512" with 1 sprites assigned.
 [     46 MB ][     46 MB ]- Completed grouping sprites to Atlas.
 [     46 MB ]- Build Sprite Atlas. 
 [     46 MB ]- Packing 1 atlases.
-[     46 MB ]- Atlas (icon512) file (cc659f97b850a7974977ddaf3b490f2e) not found. Will repack.
-[     46 MB ]- Packing atlas (icon512) of 1 sprites. Settings: Format: RGBA Compressed DXT5, Color Space: sRGB, Compression: 50, Filter Mode: 1, Max Size: 2048x2048, Padding Power: 3, Aniso Level: 16, Generate Mip Maps: true.
-[     46 MB ]DisplayProgressbar: Repacking sprite atlases
-- 	Placed sprite in page (  0) at (   0,    0). Page is now ( 512,  490). Sprite: "star_512_02". ( 520/498)
-[     47 MB ]- 	Page (  0) downsized to : ( 512 x  512).
-[     47 MB ]- Packing completed ( icon512 )
-[     47 MB ]- Packing completed.
+[     46 MB ]- Atlas (icon512) file (cc659f97b850a7974977ddaf3b490f2e) found. Mapping.
+[     46 MB ]- Packing completed.
 [     46 MB ]- Update Sprites and Cleanup. 
-[     46 MB ]DisplayProgressbar: Building Player
-Opening scene 'Assets/Menus/MainMenu.unity'
+[     46 MB ]Opening scene 'Assets/Menus/MainMenu.unity'
 Load scene 'Assets/Menus/MainMenu.unity' time: 0.010210 ms 
-Unloading 238 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 239 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 43.4 MB.
 System memory in use after: 43.4 MB.
 
 Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2726.
-Total: 7.377320 ms (FindLiveObjects: 0.324558 ms CreateObjectMapping: 0.026985 ms MarkObjects: 6.456887 ms  DeleteObjects: 0.549196 ms)
+Total: 7.019212 ms (FindLiveObjects: 0.480273 ms CreateObjectMapping: 0.047407 ms MarkObjects: 5.974426 ms  DeleteObjects: 0.515646 ms)
 
 Script attached to 'Main Menu Buttons' in scene 'Assets/Menus/MainMenu.unity' is missing or no valid script is attached.
  
@@ -1112,49 +679,49 @@ Script attached to 'Main Menu Buttons' in scene 'Assets/Menus/MainMenu.unity' is
 (Filename: C:\buildslave\unity\build\Runtime/Mono/MonoBehaviourSerialization_Editor.cpp Line: 598)
 
 Opening scene 'Assets/Menus/Level Select/S1LS.unity'
-Load scene 'Assets/Menus/Level Select/S1LS.unity' time: 0.006564 ms 
+Load scene 'Assets/Menus/Level Select/S1LS.unity' time: 0.008022 ms 
 Unloading 11 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 43.7 MB.
-System memory in use after: 43.7 MB.
-
-Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2733.
-Total: 7.953138 ms (FindLiveObjects: 0.479179 ms CreateObjectMapping: 0.080592 ms MarkObjects: 6.824477 ms  DeleteObjects: 0.567794 ms)
-
-Opening scene 'Assets/Menus/Level Select/S2LS.unity'
-Load scene 'Assets/Menus/Level Select/S2LS.unity' time: 0.006199 ms 
-Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 43.8 MB.
 System memory in use after: 43.8 MB.
 
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2733.
+Total: 7.383520 ms (FindLiveObjects: 0.333675 ms CreateObjectMapping: 0.082780 ms MarkObjects: 6.394164 ms  DeleteObjects: 0.571441 ms)
+
+Opening scene 'Assets/Menus/Level Select/S2LS.unity'
+Load scene 'Assets/Menus/Level Select/S2LS.unity' time: 0.006564 ms 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 43.9 MB.
+System memory in use after: 43.9 MB.
+
 Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2736.
-Total: 8.403143 ms (FindLiveObjects: 0.478450 ms CreateObjectMapping: 0.094814 ms MarkObjects: 7.230722 ms  DeleteObjects: 0.598062 ms)
+Total: 7.754027 ms (FindLiveObjects: 0.318358 ms CreateObjectMapping: 0.073299 ms MarkObjects: 6.781810 ms  DeleteObjects: 0.579828 ms)
 
 Opening scene 'Assets/Menus/Level Select/S3LS.unity'
-Load scene 'Assets/Menus/Level Select/S3LS.unity' time: 0.006199 ms 
+Load scene 'Assets/Menus/Level Select/S3LS.unity' time: 0.007293 ms 
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 43.7 MB.
 System memory in use after: 43.7 MB.
 
 Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2737.
-Total: 8.708374 ms (FindLiveObjects: 0.502883 ms CreateObjectMapping: 0.060535 ms MarkObjects: 7.558562 ms  DeleteObjects: 0.569618 ms)
+Total: 8.119428 ms (FindLiveObjects: 0.205675 ms CreateObjectMapping: 0.037196 ms MarkObjects: 7.270106 ms  DeleteObjects: 0.605356 ms)
 
 Opening scene 'Assets/Menus/Level Select/S4LS.unity'
-Load scene 'Assets/Menus/Level Select/S4LS.unity' time: 0.006928 ms 
+Load scene 'Assets/Menus/Level Select/S4LS.unity' time: 0.005470 ms 
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 43.7 MB.
 System memory in use after: 43.7 MB.
 
 Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2738.
-Total: 7.812374 ms (FindLiveObjects: 0.485743 ms CreateObjectMapping: 0.091168 ms MarkObjects: 6.618072 ms  DeleteObjects: 0.600615 ms)
+Total: 7.414517 ms (FindLiveObjects: 0.335133 ms CreateObjectMapping: 0.040478 ms MarkObjects: 6.451417 ms  DeleteObjects: 0.586393 ms)
 
 Opening scene 'Assets/Menus/Level Select/S5LS.unity'
-Load scene 'Assets/Menus/Level Select/S5LS.unity' time: 0.006928 ms 
+Load scene 'Assets/Menus/Level Select/S5LS.unity' time: 0.005834 ms 
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 43.7 MB.
 System memory in use after: 43.7 MB.
 
 Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2739.
-Total: 7.247497 ms (FindLiveObjects: 0.464957 ms CreateObjectMapping: 0.072569 ms MarkObjects: 6.156762 ms  DeleteObjects: 0.552113 ms)
+Total: 8.026437 ms (FindLiveObjects: 0.486837 ms CreateObjectMapping: 0.078404 ms MarkObjects: 6.874802 ms  DeleteObjects: 0.585663 ms)
 
 Opening scene 'Assets/Stage 2/Level 2/Level 2.unity'
 Load scene 'Assets/Stage 2/Level 2/Level 2.unity' time: 0.006199 ms 
@@ -1163,83 +730,7 @@ System memory in use before: 62.0 MB.
 System memory in use after: 62.0 MB.
 
 Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2876.
-Total: 8.457479 ms (FindLiveObjects: 0.240319 ms CreateObjectMapping: 0.032091 ms MarkObjects: 7.479064 ms  DeleteObjects: 0.705276 ms)
-
-Script attached to 'GameObject' in scene 'Assets/Stage 2/Level 2/Level 2.unity' is missing or no valid script is attached.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Mono/MonoBehaviourSerialization_Editor.cpp Line: 598)
-
-Opening scene 'Assets/Stage 2/Level 3/Level 3.unity'
-Load scene 'Assets/Stage 2/Level 3/Level 3.unity' time: 0.006928 ms 
-Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 63.9 MB.
-System memory in use after: 63.6 MB.
-
-Unloading 62 unused Assets to reduce memory usage. Loaded Objects now: 2872.
-Total: 7.843736 ms (FindLiveObjects: 0.490848 ms CreateObjectMapping: 0.074028 ms MarkObjects: 6.468557 ms  DeleteObjects: 0.808843 ms)
-
-Opening scene 'Assets/Stage 3/Scene/Frog-In-The-Pond.unity'
-Load scene 'Assets/Stage 3/Scene/Frog-In-The-Pond.unity' time: 0.006928 ms 
-Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 55.9 MB.
-System memory in use after: 55.9 MB.
-
-Unloading 72 unused Assets to reduce memory usage. Loaded Objects now: 3025.
-Total: 8.996830 ms (FindLiveObjects: 0.229014 ms CreateObjectMapping: 0.033914 ms MarkObjects: 6.845628 ms  DeleteObjects: 1.887543 ms)
-
-Opening scene 'Assets/Menus/Level Select/S1LS.unity'
-Load scene 'Assets/Menus/Level Select/S1LS.unity' time: 0.006564 ms 
-Unloading 54 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 50.3 MB.
-System memory in use after: 49.9 MB.
-
-Unloading 181 unused Assets to reduce memory usage. Loaded Objects now: 2745.
-Total: 7.447337 ms (FindLiveObjects: 0.296113 ms CreateObjectMapping: 0.048136 ms MarkObjects: 6.200523 ms  DeleteObjects: 0.901834 ms)
-
-Opening scene 'Assets/Menus/Level Select/S2LS.unity'
-Load scene 'Assets/Menus/Level Select/S2LS.unity' time: 0.009846 ms 
-Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 50.0 MB.
-System memory in use after: 50.0 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2746.
-Total: 8.954892 ms (FindLiveObjects: 0.482461 ms CreateObjectMapping: 0.035008 ms MarkObjects: 7.754756 ms  DeleteObjects: 0.681572 ms)
-
-Opening scene 'Assets/Menus/Level Select/S3LS.unity'
-Load scene 'Assets/Menus/Level Select/S3LS.unity' time: 0.006564 ms 
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 50.0 MB.
-System memory in use after: 49.9 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2747.
-Total: 8.291918 ms (FindLiveObjects: 0.315806 ms CreateObjectMapping: 0.035008 ms MarkObjects: 7.197901 ms  DeleteObjects: 0.742108 ms)
-
-Opening scene 'Assets/Menus/Level Select/S4LS.unity'
-Load scene 'Assets/Menus/Level Select/S4LS.unity' time: 0.007658 ms 
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 50.0 MB.
-System memory in use after: 49.9 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2748.
-Total: 8.527861 ms (FindLiveObjects: 0.498142 ms CreateObjectMapping: 0.074757 ms MarkObjects: 7.413423 ms  DeleteObjects: 0.540809 ms)
-
-Opening scene 'Assets/Menus/Level Select/S5LS.unity'
-Load scene 'Assets/Menus/Level Select/S5LS.unity' time: 0.006199 ms 
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 50.0 MB.
-System memory in use after: 49.9 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2749.
-Total: 7.259896 ms (FindLiveObjects: 0.364672 ms CreateObjectMapping: 0.091897 ms MarkObjects: 6.226050 ms  DeleteObjects: 0.576182 ms)
-
-Opening scene 'Assets/Stage 2/Level 2/Level 2.unity'
-Load scene 'Assets/Stage 2/Level 2/Level 2.unity' time: 0.009481 ms 
-Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 62.3 MB.
-System memory in use after: 62.3 MB.
-
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2884.
-Total: 8.627052 ms (FindLiveObjects: 0.209686 ms CreateObjectMapping: 0.029173 ms MarkObjects: 7.788306 ms  DeleteObjects: 0.598791 ms)
+Total: 7.340853 ms (FindLiveObjects: 0.272774 ms CreateObjectMapping: 0.028079 ms MarkObjects: 6.433184 ms  DeleteObjects: 0.606085 ms)
 
 Script attached to 'GameObject' in scene 'Assets/Stage 2/Level 2/Level 2.unity' is missing or no valid script is attached.
  
@@ -1248,35 +739,111 @@ Script attached to 'GameObject' in scene 'Assets/Stage 2/Level 2/Level 2.unity' 
 Opening scene 'Assets/Stage 2/Level 3/Level 3.unity'
 Load scene 'Assets/Stage 2/Level 3/Level 3.unity' time: 0.006199 ms 
 Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 63.9 MB.
+System memory in use after: 63.6 MB.
+
+Unloading 62 unused Assets to reduce memory usage. Loaded Objects now: 2872.
+Total: 8.020237 ms (FindLiveObjects: 0.263293 ms CreateObjectMapping: 0.036831 ms MarkObjects: 6.910175 ms  DeleteObjects: 0.808843 ms)
+
+Opening scene 'Assets/Stage 3/Scene/Frog-In-The-Pond.unity'
+Load scene 'Assets/Stage 3/Scene/Frog-In-The-Pond.unity' time: 0.005834 ms 
+Unloading 36 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 55.9 MB.
+System memory in use after: 55.9 MB.
+
+Unloading 72 unused Assets to reduce memory usage. Loaded Objects now: 3025.
+Total: 8.786779 ms (FindLiveObjects: 0.491213 ms CreateObjectMapping: 0.129458 ms MarkObjects: 6.345662 ms  DeleteObjects: 1.805857 ms)
+
+Opening scene 'Assets/Menus/Level Select/S1LS.unity'
+Load scene 'Assets/Menus/Level Select/S1LS.unity' time: 0.006564 ms 
+Unloading 54 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 50.2 MB.
+System memory in use after: 49.9 MB.
+
+Unloading 181 unused Assets to reduce memory usage. Loaded Objects now: 2745.
+Total: 6.922574 ms (FindLiveObjects: 0.189264 ms CreateObjectMapping: 0.033185 ms MarkObjects: 5.871953 ms  DeleteObjects: 0.827441 ms)
+
+Opening scene 'Assets/Menus/Level Select/S2LS.unity'
+Load scene 'Assets/Menus/Level Select/S2LS.unity' time: 0.005834 ms 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 49.9 MB.
+System memory in use after: 49.9 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2746.
+Total: 7.872180 ms (FindLiveObjects: 0.214062 ms CreateObjectMapping: 0.037196 ms MarkObjects: 6.942266 ms  DeleteObjects: 0.677925 ms)
+
+Opening scene 'Assets/Menus/Level Select/S3LS.unity'
+Load scene 'Assets/Menus/Level Select/S3LS.unity' time: 0.006199 ms 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 49.9 MB.
+System memory in use after: 49.9 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2747.
+Total: 7.037081 ms (FindLiveObjects: 0.188535 ms CreateObjectMapping: 0.026256 ms MarkObjects: 6.231884 ms  DeleteObjects: 0.589675 ms)
+
+Opening scene 'Assets/Menus/Level Select/S4LS.unity'
+Load scene 'Assets/Menus/Level Select/S4LS.unity' time: 0.005470 ms 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 49.9 MB.
+System memory in use after: 49.9 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2748.
+Total: 7.126426 ms (FindLiveObjects: 0.176136 ms CreateObjectMapping: 0.028444 ms MarkObjects: 6.381765 ms  DeleteObjects: 0.538985 ms)
+
+Opening scene 'Assets/Menus/Level Select/S5LS.unity'
+Load scene 'Assets/Menus/Level Select/S5LS.unity' time: 0.006564 ms 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 49.9 MB.
+System memory in use after: 49.9 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2749.
+Total: 7.017753 ms (FindLiveObjects: 0.164467 ms CreateObjectMapping: 0.025527 ms MarkObjects: 6.273822 ms  DeleteObjects: 0.553207 ms)
+
+Opening scene 'Assets/Stage 2/Level 2/Level 2.unity'
+Load scene 'Assets/Stage 2/Level 2/Level 2.unity' time: 0.006199 ms 
+Unloading 13 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 62.3 MB.
+System memory in use after: 62.2 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 2884.
+Total: 7.410141 ms (FindLiveObjects: 0.359566 ms CreateObjectMapping: 0.033549 ms MarkObjects: 6.424796 ms  DeleteObjects: 0.590769 ms)
+
+Script attached to 'GameObject' in scene 'Assets/Stage 2/Level 2/Level 2.unity' is missing or no valid script is attached.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Mono/MonoBehaviourSerialization_Editor.cpp Line: 598)
+
+Opening scene 'Assets/Stage 2/Level 3/Level 3.unity'
+Load scene 'Assets/Stage 2/Level 3/Level 3.unity' time: 0.006564 ms 
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 64.1 MB.
 System memory in use after: 63.8 MB.
 
 Unloading 62 unused Assets to reduce memory usage. Loaded Objects now: 2880.
-Total: 8.024613 ms (FindLiveObjects: 0.266940 ms CreateObjectMapping: 0.065641 ms MarkObjects: 6.915280 ms  DeleteObjects: 0.774928 ms)
+Total: 8.690140 ms (FindLiveObjects: 0.548831 ms CreateObjectMapping: 0.106848 ms MarkObjects: 7.204465 ms  DeleteObjects: 0.828535 ms)
 
 Opening scene 'Assets/Extra Levels/Piano Minigame.unity'
-Load scene 'Assets/Extra Levels/Piano Minigame.unity' time: 0.006928 ms 
+Load scene 'Assets/Extra Levels/Piano Minigame.unity' time: 0.005834 ms 
 Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 47.7 MB.
-System memory in use after: 47.7 MB.
+System memory in use after: 47.6 MB.
 
 Unloading 81 unused Assets to reduce memory usage. Loaded Objects now: 2795.
-Total: 7.216500 ms (FindLiveObjects: 0.155715 ms CreateObjectMapping: 0.024068 ms MarkObjects: 6.385776 ms  DeleteObjects: 0.650210 ms)
+Total: 8.663884 ms (FindLiveObjects: 0.272045 ms CreateObjectMapping: 0.075487 ms MarkObjects: 7.627485 ms  DeleteObjects: 0.687771 ms)
 
 Script attached to 'Piano' in scene 'Assets/Extra Levels/Piano Minigame.unity' is missing or no valid script is attached.
  
 (Filename: C:\buildslave\unity\build\Runtime/Mono/MonoBehaviourSerialization_Editor.cpp Line: 598)
 
 Opening scene 'Assets/Stage 3/Scene/Meat-Market-Sort.unity'
-Load scene 'Assets/Stage 3/Scene/Meat-Market-Sort.unity' time: 0.006928 ms 
+Load scene 'Assets/Stage 3/Scene/Meat-Market-Sort.unity' time: 0.006199 ms 
 Unloading 15 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 62.2 MB.
 System memory in use after: 62.2 MB.
 
 Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 3069.
-Total: 7.875098 ms (FindLiveObjects: 0.779669 ms CreateObjectMapping: 0.159726 ms MarkObjects: 6.315394 ms  DeleteObjects: 0.600979 ms)
+Total: 8.304682 ms (FindLiveObjects: 0.546643 ms CreateObjectMapping: 0.112319 ms MarkObjects: 6.994779 ms  DeleteObjects: 0.649846 ms)
 
-Refreshing native plugins compatible for Editor in 0.31 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 0.34 ms, found 4 plugins.
 
 
 Mono dependencies included in the build
@@ -1292,38 +859,38 @@ Dependency assembly - Assembly-CSharp.dll
 Dependency assembly - Assembly-UnityScript.dll
 
 Unloading 55 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 64.2 MB.
+System memory in use before: 64.1 MB.
 System memory in use after: 63.8 MB.
 
 Unloading 187 unused Assets to reduce memory usage. Loaded Objects now: 2674.
-Total: 8.191269 ms (FindLiveObjects: 0.389834 ms CreateObjectMapping: 0.065641 ms MarkObjects: 6.911634 ms  DeleteObjects: 0.822700 ms)
+Total: 7.829149 ms (FindLiveObjects: 0.191088 ms CreateObjectMapping: 0.030267 ms MarkObjects: 6.755918 ms  DeleteObjects: 0.851145 ms)
 
 Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
 Setting up 4 worker threads for Enlighten.
-  Thread -> id: 22d4 -> priority: 1 
-  Thread -> id: c8c -> priority: 1 
-  Thread -> id: 3a74 -> priority: 1 
-  Thread -> id: 1f70 -> priority: 1 
+  Thread -> id: 2738 -> priority: 1 
+  Thread -> id: da4 -> priority: 1 
+  Thread -> id: 4fc -> priority: 1 
+  Thread -> id: 3ec -> priority: 1 
 System memory in use before: 42.6 MB.
 System memory in use after: 42.8 MB.
 
 Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 2682.
-Total: 6.839793 ms (FindLiveObjects: 0.421925 ms CreateObjectMapping: 0.054336 ms MarkObjects: 6.344568 ms  DeleteObjects: 0.017504 ms)
+Total: 6.316488 ms (FindLiveObjects: 0.249435 ms CreateObjectMapping: 0.045948 ms MarkObjects: 6.003235 ms  DeleteObjects: 0.017139 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 65.7 MB.
-System memory in use after: 43.1 MB.
+System memory in use after: 43.0 MB.
 
 Unloading 131 unused Assets to reduce memory usage. Loaded Objects now: 2672.
-Total: 21.896383 ms (FindLiveObjects: 0.280068 ms CreateObjectMapping: 0.050324 ms MarkObjects: 6.051736 ms  DeleteObjects: 15.512794 ms)
+Total: 20.472338 ms (FindLiveObjects: 0.230837 ms CreateObjectMapping: 0.033185 ms MarkObjects: 5.754164 ms  DeleteObjects: 14.452692 ms)
 
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
 
 -------------------------------------------------------------------------------
@@ -1539,20 +1106,20 @@ Used Assets and files from the Resources folder, sorted by uncompressed size:
  0.0 kb	 0.0% Assets/PhysicsMaterials/Sticky.physicsMaterial2D
 -------------------------------------------------------------------------------
 Unloading 135 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 57.9 MB.
-System memory in use after: 57.5 MB.
+System memory in use before: 57.8 MB.
+System memory in use after: 57.4 MB.
 
 Unloading 415 unused Assets to reduce memory usage. Loaded Objects now: 2690.
-Total: 8.116876 ms (FindLiveObjects: 0.270951 ms CreateObjectMapping: 0.038290 ms MarkObjects: 6.764306 ms  DeleteObjects: 1.042598 ms)
+Total: 10.665935 ms (FindLiveObjects: 0.291008 ms CreateObjectMapping: 0.062723 ms MarkObjects: 8.924260 ms  DeleteObjects: 1.387213 ms)
 
 DisplayProgressNotification: Build Successful
-Load scene 'Temp/__Backupscenes/0.backup' time: 0.098461 ms 
+Load scene 'Temp/__Backupscenes/0.backup' time: 0.072569 ms 
 Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 51.0 MB.
-System memory in use after: 51.2 MB.
+System memory in use before: 50.9 MB.
+System memory in use after: 51.1 MB.
 
 Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 2684.
-Total: 7.087406 ms (FindLiveObjects: 0.511999 ms CreateObjectMapping: 0.077310 ms MarkObjects: 6.491531 ms  DeleteObjects: 0.005470 ms)
+Total: 8.997559 ms (FindLiveObjects: 0.413173 ms CreateObjectMapping: 0.040843 ms MarkObjects: 8.536249 ms  DeleteObjects: 0.005834 ms)
 
     Ignoring 'D:/Programs/programs/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll' because we're compiling for Editor:Editor
     Ignoring 'D:/Programs/programs/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Standalone/UnityEngine.UI.dll' because we're compiling for Editor:Editor
@@ -1561,17 +1128,17 @@ Total: 7.087406 ms (FindLiveObjects: 0.511999 ms CreateObjectMapping: 0.077310 m
     Ignoring 'D:/Programs/programs/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Runtime/UnityEngine.HoloLens.dll' because we're compiling for Editor:Editor
     Ignoring 'D:/Programs/programs/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll' because we're compiling for Editor:Editor
 
-*** Completed 'Build.Player.WindowsStandaloneSupport' in 11 seconds (11058 ms)
+*** Completed 'Build.Player.WindowsStandaloneSupport' in 6 seconds (6136 ms)
 
 Batchmode quit successfully invoked - shutting down!
-Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.006897 seconds (Nothing changed)
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.007700 seconds (Nothing changed)
 Updating ProjectSettings/ProjectSettings.asset - GUID: 00000000000000004000000000000000...
- done. [Time: 5.440181 ms] 
-Refreshing native plugins compatible for Editor in 0.51 ms, found 4 plugins.
-Preloading 2 native plugins for Editor in 0.07 ms.
+ done. [Time: 34.196415 ms] 
+Refreshing native plugins compatible for Editor in 0.53 ms, found 4 plugins.
+Preloading 2 native plugins for Editor in 0.10 ms.
 
------ Total AssetImport time: 0.057628s, AssetImport time: 0.023784s, Asset hashing: 0.000000s [0 B, 0.000000 mb/s]
+----- Total AssetImport time: 0.096663s, AssetImport time: 0.056309s, Asset hashing: 0.000000s [0 B, 0.000000 mb/s]
 
-Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.006274 seconds (Nothing changed)
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0.006585 seconds (Nothing changed)
 Cleanup mono
 Exiting batchmode successfully now!
