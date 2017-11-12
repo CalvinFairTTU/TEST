@@ -31,3 +31,4 @@ echo "Attempting to build $project for Windows"
 
 echo 'Logs from build'
 cat $(pwd)/unity.log
+echo 'Did we make it this time?'
