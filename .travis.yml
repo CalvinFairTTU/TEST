@@ -17,7 +17,7 @@ install:
 - ./install.sh
 
 script:
-- ./Serious\ \Nutrition\ \Game/build.sh
+- ./Serious\ Nutrition\ Game/build.sh
 
 # deploy:
 #   provider: s3
