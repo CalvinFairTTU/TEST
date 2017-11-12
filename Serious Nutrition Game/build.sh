@@ -1,7 +1,7 @@
 #! /bin/sh
 
 project="SNG"
-PROJECTFOLDER = "Serious Nutrition Game"
+# PROJECTFOLDER = "Serious Nutrition Game"
 
 #test scripts go here before the building
 
@@ -9,7 +9,8 @@ PROJECTFOLDER = "Serious Nutrition Game"
 #build script only runs after successful tests
 
 echo "Attempting to build $project for Windows"
-D:/Programs/programs/Unity/Editor/Unity.exe \
+# D:/Programs/programs/Unity/Editor/Unity.exe \
+/Applications/Unity/Unity.app/Contents/MacOS/Unity \
   -batchmode \
   -nographics \
   -silent-crashes \
