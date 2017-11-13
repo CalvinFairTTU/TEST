@@ -15,7 +15,7 @@ before_install:
 
 install: travis_wait 30 ./install.sh
 
-script: travis_wait 30 ./Serious\ Nutrition\ Game/build.sh
+script: travis_wait 30 ./"Serious Nutrition Game"/build.sh
 
 # deploy:
 #   provider: s3
