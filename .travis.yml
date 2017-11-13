@@ -7,7 +7,7 @@ os: osx
 
 branches:
   only:
-    - master
+    - test-branch
 
 before_install:
 - chmod a+x ./install.sh
