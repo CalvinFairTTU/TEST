@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Menus/Level Select/S3LS.unity
+- path: Assets/Stage 3/Scene/Frog-In-The-Pond.unity
   isLoaded: 1
   isActive: 1
