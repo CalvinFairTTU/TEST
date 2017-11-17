@@ -1,4 +1,1 @@
-sceneSetups:
-- path: Assets/Menus/Level Select/S3LS.unity
-  isLoaded: 1
-  isActive: 1
+sceneSetups: []
