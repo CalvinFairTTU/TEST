@@ -7,7 +7,8 @@ os: osx
 
 branches:
   only:
-    - test-branch
+  - gh-pages
+  - /.*/
 
 before_install:
 - chmod a+x ./install.sh
